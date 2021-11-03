@@ -12,7 +12,7 @@
 
 ## With a ❤️ for usable experiences and technology, I'm inspired through all forms for creation & expression.
 
-From a business & design, to arts and entertainment. My reality is fueld by "what's next" 🧙
+From business and design, to arts & entertainment; My reality is fueld by "what's next" 🧙
 
 #### 🔧 Working full-time [@YML](https://yml.co/)
 #### 🤝 I’m looking to collaborate on:
