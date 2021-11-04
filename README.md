@@ -10,7 +10,7 @@
 [![image](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/LAzzam)
 [![image](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=whit)](https://lazzam.tumblr.com/)
 
-## With a ❤️ for usable experiences and technology, I'm inspired by all forms of creation & expression.
+<h2>With a ❤️ for usable experiences and technology,<br>I'm inspired by all forms of creation & expression.</h2>
 
 From business and design, to arts & entertainment; My reality is fueld by "what's next" 🧙
 
@@ -21,7 +21,7 @@ From business and design, to arts & entertainment; My reality is fueld by "what'
 - Virtual Reality
 - Anything at the intersection of Art & Technology
 
-“Be hard on problems, not on people.” ― William Winston
+“Be hard on problems, not on people.” ― [William Winston](https://www.linkedin.com/in/williamrwinston/)
 
 ##
 
