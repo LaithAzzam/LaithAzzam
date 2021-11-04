@@ -10,7 +10,7 @@
 [![image](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/LAzzam)
 [![image](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=whit)](https://lazzam.tumblr.com/)
 
-## With a ❤️ for usable experiences and technology, I'm inspired through all forms for creation & expression.
+## With a ❤️ for usable experiences and technology, I'm inspired by all forms of creation & expression.
 
 From business and design, to arts & entertainment; My reality is fueld by "what's next" 🧙
 
