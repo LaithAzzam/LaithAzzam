@@ -19,7 +19,8 @@ From business and design, to arts & entertainment; My reality is fueld by "what'
 - Blockchain / NFTs
 - Design Systems
 - Virtual Reality
-- Anything at the intersection of Art & Technology
+- Music / Gaming
+- Everything at the intersection of Art & Technology
 
 “Be hard on problems, not on people.” ― [William Winston](https://www.linkedin.com/in/williamrwinston/)
 
