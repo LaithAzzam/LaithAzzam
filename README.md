@@ -10,9 +10,9 @@
 [![image](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/LAzzam)
 [![image](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=whit)](https://lazzam.tumblr.com/)
 
-<h2>With a ❤️ for usable experiences and technology,<br>I'm inspired by all forms of creation & expression.</h2>
+From business and design, to arts & entertainment. I'm inspired by all forms of creation & expression.
 
-From business and design, to arts & entertainment; My reality is fueld by "what's next" 🧙
+My reality is fueld by "what's next" 🧙
 
 #### 🔧 Working full-time [@YML](https://yml.co/)
 #### 🤝 I’m looking to collaborate on:
