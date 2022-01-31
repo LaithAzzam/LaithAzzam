@@ -14,12 +14,12 @@ From business and design, to arts & entertainment. I'm inspired by all forms of 
 
 My reality is fueld by "what's next" 🧙
 
-#### 🔧 Working full-time [@YML](https://yml.co/)
+#### 🔧 Building [oaddao](https://oaddao.xyz/) // [Mystery Meatz](https://mysterymeatz.xyz/)
+
 #### 🤝 I’m looking to collaborate on:
-- Blockchain / NFTs
-- Design Systems
-- Virtual Reality
-- Music / Gaming
+- Blockchain / NFT Utilities
+- VR / AR Platforms & Experiences
+- Music / Gaming Technologies
 - Everything at the intersection of Art & Technology
 
 “Be hard on problems, not on people.” ― [William Winston](https://www.linkedin.com/in/williamrwinston/)
