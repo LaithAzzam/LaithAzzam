@@ -14,7 +14,11 @@ From business and design, to arts & entertainment. I'm inspired by all forms of 
 
 My reality is fueld by "what's next" 🧙
 
-#### 🔧 Building [oaddao](https://oaddao.xyz/) // [Mystery Meatz](https://mysterymeatz.xyz/)
+#### 🔧 I'm currently building:
+ - [semble.games](https://www.semble.games/)
+ - [oaddao](https://oaddao.xyz/)
+ - [Inspire Outdoors](https://inspire-outdoors.com/)
+ - [Mystery Meatz](https://mysterymeatz.xyz/)
 
 #### 🤝 I’m looking to collaborate on:
 - Blockchain / NFT Utilities
