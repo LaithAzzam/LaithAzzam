@@ -23,7 +23,3 @@ My reality is fueld by "what's next" 🧙
 - Everything at the intersection of Art & Technology
 
 “Be hard on problems, not on people.” ― [William Winston](https://www.linkedin.com/in/williamrwinston/)
-
-##
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
