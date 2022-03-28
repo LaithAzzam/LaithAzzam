@@ -12,7 +12,7 @@
 
 From business and design, to arts & entertainment. I'm inspired by all forms of creation & expression.
 
-My reality is fueld by "what's next" 🧙
+My reality is fueled by "what's next" 🧙
 
 #### 🔧 I'm currently building:
  - [semble.games](https://www.semble.games/)
