@@ -7,17 +7,17 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laithazzam/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laith.wtf/)
 
-From business and design, to arts & entertainment. I'm inspired by all forms of creation & expression.
-
-My reality is fueled by "what's next" 🧙
-
-#### 🔧 I'm currently building:
+#### 🔧 Currently building:
  - [Tango.us](https://www.tango.us/)
 
-#### 🤝 I’m looking to collaborate on:
-- Blockchain / NFT Utilities
-- VR / AR Platforms & Experiences
-- Music / Gaming Technologies
-- Everything at the intersection of Art & Technology
+#### 🗒️ Previously:
+- [Slack](https://slack.com/)
+- [YML](https://yml.co/codeandtheory)
+- [Politech](https://politech.io/)
+- [Crowdcast](https://www.crowdcast.io/)
+- [AKQA](https://www.akqa.com/)
 
-“Be hard on problems, not on people.” ― [William Winston](https://www.linkedin.com/in/williamrwinston/)
+#### 🗨️ Always interested chatting about:
+- Music / Gaming
+- VR / AR
+- Art x Technology
